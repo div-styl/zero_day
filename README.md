@@ -1,1 +1,1 @@
-**Hello *[ALX]: IS AMAZING**
+**Hello ALX**
